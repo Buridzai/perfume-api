@@ -1,16 +1,3 @@
-Okay, tôi hiểu rằng bạn muốn `README.md` của dự án trông chuyên nghiệp và dễ đọc hơn, đặc biệt là phần định dạng. Ảnh bạn gửi cho thấy việc dán nội dung Markdown trực tiếp vào GitHub có thể bị lỗi hiển thị nếu không được định dạng đúng cách, đặc biệt là với các khối code, danh sách, và bảng.
-
-Tôi sẽ làm lại nội dung cho file `README.md` của bạn, tập trung vào:
-
-1.  **Sử dụng cú pháp Markdown chuẩn và rõ ràng hơn**: Để đảm bảo hiển thị đúng trên GitHub.
-2.  **Cải thiện bố cục và khoảng cách**: Để dễ đọc hơn.
-3.  **Tối ưu hóa các tiêu đề và danh sách**: Tránh các lỗi render.
-4.  **Kiểm tra kỹ lại các khối code**: Đảm bảo chúng được highlight cú pháp đúng.
-
-Dưới đây là nội dung `README.md` được cải thiện:
-
------
-
 # Perfume-API
 
 Dự án **Perfume-API** là hệ thống Backend cho một ứng dụng thương mại điện tử chuyên về nước hoa, được xây dựng bằng ngôn ngữ lập trình Go. API này cung cấp các chức năng cốt lõi cho phép người dùng quản lý tài khoản, duyệt sản phẩm, thêm vào giỏ hàng và đặt hàng. Dự án được phát triển với kiến trúc microservice, sử dụng Docker Compose để quản lý các thành phần và RabbitMQ cho giao tiếp bất đồng bộ giữa các service.
